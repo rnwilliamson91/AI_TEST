@@ -1,0 +1,19 @@
+{
+  "my name": "Nick",
+  "unreal version": "5.6",
+  "my": {
+    "name": "Nick"
+  },
+  "Unreal": {
+    "version": "5.6"
+  },
+  "unreal": {
+    "version": "5.6"
+  },
+  "websearch": {
+    "notes": [
+      "Unreal Engine World Partition tips: ",
+      "Unreal Engine World Partition tips: An overview of the World Partition system and how to use it in your projects in Unreal Engine.\nAnyone can make games. I hope these tutorials help you on your journey. Happy deving y'all! #ue5tutorial #gamedev #leveldesign #gamedesign #ue5 Timestamps: 0:00 - Why use the World Partition Tool ...\nI'm currently working on an open-world project in Unreal Engine 5 using World Partition to manage my level. However, I'm facing some performance issues, especially when streaming in and out cells on lower-end hardware."
+    ]
+  }
+}
