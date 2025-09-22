@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 def extract_text_from_url(url):
-    print(f"🌐 Fetching URL: {url}")
+    print("🌐 Fetching:", url)
 
     headers = {"User-Agent": "Mozilla/5.0"}
     try:
